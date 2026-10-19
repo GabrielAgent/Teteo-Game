@@ -40,24 +40,23 @@ Este proyecto consiste en un videojuego desarrollado como parte de la game jam e
 \#
 
  Instalación y ejecución
-
-1\. Descarga o clona este repositorio.
-
-2\. Abre el proyecto con \[herramienta utilizada].
-
-3\. Sigue las instrucciones necesarias para ejecutarlo.
+Solo descargar el zip, descomprimirlo, una vez descomprimido solo correr el ejecutable del juego
 
 
 
-\## Controles
+Controles:
 
-\- \[WASD]: \[desplazamiento del jugador].
+- [WASD]: [desplazamiento del jugador].
 
-\- \[Flechas direccionales]:\[desplazamiento de baile]
+- [Flechas direccionales] : [desplazamiento de baile]
 
-\- \[SPACE]: \[Salto].
+- [SPACE]: [Salto].
 
-\- \[Click Izquierdo]: \[acción].
+- [J]: [Disparo](Después de ser desbloqueado)
+
+- [E] : [Interacción]
+
+- [SPACE] : [DASH] (En ciertas secciones después de ser desbloqueado)
 
 
 
@@ -78,18 +77,13 @@ https://github.com/user-attachments/assets/b1bfbcd7-3692-480e-8243-d8244eb97e7c
 (GAME FOOTAGE)
 
 
+Integrantes del Equipo: 
+Juan Carlos Bernal Jimenez [Consultor de Historia/soporte]
+Alexander Martínez Pérez [Dev/integración/Diseño visual]
+Gilberto de Jesús Romay Martinez [Dev principal/Diseño visual/Diseño de mecánicas]
+Cesar Adolfo Bautista Dorantes [Multimedia]
+Gabriel Rodrigo Enríquez Guerra [Producción/Documentación]
 
-**## Autores**
-
-\- \[Bernal
-
-Alexander Martínez Perez
-
-Romay 
-
-Cesar Adolfo Bautista Dorantes 
-
-Gabriel	Rodrigo Enríquez Guerra].
 
 
 
