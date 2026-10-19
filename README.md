@@ -1,5 +1,14 @@
+
 \# Teteo
 
+INTRO
+
+
+https://github.com/user-attachments/assets/577be943-d99a-4781-bbfd-3616952c07a3
+
+
+(CLIDEO fue la herramienta utilizada para la compresión del video)
+(La intro fue realizada con ayuda de gemini)
 
 
 \# Descripción
