@@ -54,7 +54,12 @@ Este proyecto consiste en un videojuego desarrollado como parte de la game jam e
 
 \## Capturas de pantalla
 
-AÑADIR A FUTURO
+https://github.com/user-attachments/assets/05fae475-1c6d-4a36-8653-ea45cc0315c7
+
+
+
+https://github.com/user-attachments/assets/b1bfbcd7-3692-480e-8243-d8244eb97e7c
+
 
 
 
