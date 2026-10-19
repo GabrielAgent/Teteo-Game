@@ -2,13 +2,13 @@
 
 
 
-\## Descripción
+\# Descripción
 
 Este proyecto consiste en un videojuego desarrollado como parte de la game jam en la temática de Cultura, identidad y patrimonio . El jugador emprendera un viaje para la obtener la intervención de Tlaloc, descubriendo que algo esta consumiendo el agua y alterando el equilibrio entre su reino y el reino de los muertos.
 
 
 
-\## Características
+\# Características
 
 \- La mecanica principal del juego es el plataformeo 
 
@@ -18,7 +18,7 @@ Este proyecto consiste en un videojuego desarrollado como parte de la game jam e
 
 
 
-\## Tecnologías utilizadas
+\# Tecnologías utilizadas
 
 \- Lenguaje de programación: GDScript
 
@@ -28,7 +28,9 @@ Este proyecto consiste en un videojuego desarrollado como parte de la game jam e
 
 
 
-\## Instalación y ejecución
+\#
+
+ Instalación y ejecución
 
 1\. Descarga o clona este repositorio.
 
@@ -52,7 +54,7 @@ Este proyecto consiste en un videojuego desarrollado como parte de la game jam e
 
 \## Capturas de pantalla
 
-Añadir imágenes que muestren el menú, la jugabilidad y otras funciones principales.
+AÑADIR A FUTURO
 
 
 
