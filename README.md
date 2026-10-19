@@ -24,7 +24,7 @@ Este proyecto consiste en un videojuego desarrollado como parte de la game jam e
 
 \- Motor o entorno de desarrollo: GODOT.
 
-\- Herramientas adicionales: Gemini generative ai for images
+\- Herramientas adicionales: Gemini generative ai for images para los fondos 
 
 
 
@@ -67,13 +67,13 @@ https://github.com/user-attachments/assets/b1bfbcd7-3692-480e-8243-d8244eb97e7c
 
 \- \[Bernal
 
-Alexander
+Alexander Martínez Perez
 
-Romay
+Romay 
 
-Adolfo
+Cesar Adolfo Bautista Dorantes 
 
-Gabriel	].
+Gabriel	Rodrigo Enríquez Guerra].
 
 
 
