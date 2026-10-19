@@ -1,0 +1,128 @@
+{
+	"introduccion_tlaloc": [
+		{
+			"personaje": "Xolo",
+			"texto": "Este es el monte Tláloc, señor de la lluvia. Si alguien puede devolver el agua a Tenochtitlan, es él."
+		}
+	],
+	"aparicion_tezcatlipoca": [
+		{
+			"personaje": "Tezcatlipoca",
+			"texto": "¿Con un simple baile crees haber salvado tu pueblo?"
+		},
+		{
+			"personaje": "Tezcatlipoca",
+			"texto": "los humanos creen controlar todo."
+		},
+		{
+			"personaje": "Xolo",
+			"texto": "Tezcatlipoca... el señor del espejo humeante. Te lo advierto, mortal: no escuches sus falsas promesas."
+		}
+	],
+	"provocaciones_tezcatlipoca":[
+		{
+			"personaje": "Tezcatlipoca",
+			"texto": "¡Insolente!"
+		}
+	],
+	"muerte_transicion_miclan": [
+		{
+			"personaje": "Tezcatlipoca",
+			"texto": "Tu pueblo está condenado."
+		}
+	],
+	"llegada_micltan": [
+		{
+			"personaje": "Xolo",
+			"texto": "Micltantecuhtli... señor del Mitclán. Aquí comienza el camino de los muertos, y el final de los vivos..."
+		}
+	],
+	"dialogo_mictlantecuhtli": [
+		{
+			"personaje": "Mictlantecuhtli",
+			"texto": "Otro humano que cree poder cambiar su destino."
+		},
+		{
+			"personaje": "Protagonista",
+			"texto": "Mi pueblo está muriendo, necesito detenerlo."
+		},
+		{
+			"personaje": "Mictlantecuhtli",
+			"texto": "La ignorancia de tu pueblo no me corresponde."
+		},
+		{
+			"personaje": "Protagonista",
+			"texto": "Fue Tezcatlipoca quien me mandó aquí."
+		},
+		{
+			"personaje": "Mictlantecuhtli",
+			"texto": "¿tezcatlipoca? Entonces no fue una casualidad; los dioses rara vez actúan sin un propósito."
+		},
+		{
+			"personaje": "Mictlantecuhtli",
+			"texto": "Sin embargo, eso no me corresponde."
+		},
+		{
+			"personaje": "Protagonista",
+			"texto": "Te pido una prueba, no un regalo. No puedo dejar morir así a mi gente."
+		},
+		{
+			"personaje": "Mictlantecuhtli",
+			"texto": "La muerte no negocia, pero Tezcatlipoca ha roto el equilibrio trayéndote aquí, a un alma viva antes de su hora."
+		},
+		{
+			"personaje": "Mictlantecuhtli",
+			"texto": "Si quieres regresar, deberás probar ser un guerrero digno. Vence a mis sombras y quizá pued hacer una excepción..."
+		}
+	],
+  "regreso_del_mictlan": [
+	{
+	  "personaje": "Mictlantecuhtli",
+	  "texto": "Has demostrado ser un guerrero digno. Algo me dice que allí arriba te necesitarán."
+	},
+	{
+	  "personaje": "Mictlantecuhtli",
+	  "texto": "Huelo acero… pólvora… mucha sangre."
+	},
+	{
+	  "personaje": "Protagonista",
+	  "texto": "¿Otra guerra con los tlaxcaltecas?"
+	},
+	{
+	  "personaje": "Mictlantecuhtli",
+	  "texto": "No, el olor de su sangre no pertenece a estas tierras…"
+	},
+	{
+	  "personaje": "Mictlantecuhtli",
+	  "texto": "El fin del mundo se acerca… pronto tu pueblo perderá su identidad."
+	},
+	{
+	  "personaje": "Mictlantecuhtli",
+	  "texto": "Toma, puedes abandonar mi reino."
+	}
+  ],
+  "regreso_tezcatlipoca": [
+	{
+	  "personaje": "Tezcatlipoca",
+	  "texto": "[Se queda en silencio, sorprendido.]"
+	},
+	{
+	  "personaje": "Protagonista",
+	  "texto": "Esta vez no pienso caer. La vida de mi pueblo no te corresponde."
+	},
+	{
+	  "personaje": "Tezcatlipoca",
+	  "texto": "¿Tú otra vez? Humano ignorante."
+	},
+	{
+	  "personaje": "Protagonista",
+	  "texto": "El señor de los muertos me mostró el fin de los tiempos. Tú solo eres Xolopitli, que se esconde tras su espejo."
+	}
+  ],
+  "final_tenochtitlan": [
+	{
+	  "personaje": "Anciano",
+	  "texto": "¡Moctezuma! Los dioses han escuchado tu danza. Tenochtitlan necesita un nuevo tlatoani."
+	}
+  ]
+}
