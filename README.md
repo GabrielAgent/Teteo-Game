@@ -69,6 +69,13 @@ https://github.com/user-attachments/assets/05fae475-1c6d-4a36-8653-ea45cc0315c7
 
 https://github.com/user-attachments/assets/b1bfbcd7-3692-480e-8243-d8244eb97e7c
 
+//ESCENARIOS
+<img width="1505" height="688" alt="templo_tlaloc" src="https://github.com/user-attachments/assets/4426c7d5-bb93-430e-bf8f-a3339fba8097" />
+
+(GAME FOOTAGE)
+
+<img width="2752" height="1536" alt="pueblo" src="https://github.com/user-attachments/assets/fd86b057-dae1-49d0-81bf-c081be8c3d11" />
+(GAME FOOTAGE)
 
 
 
